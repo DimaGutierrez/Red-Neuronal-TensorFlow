@@ -8,5 +8,5 @@ Ejemplo de resolucion de problemas lineales.
 `cel_fah.ipynb`
 
 ## Clasificación de imágenes con Python y Tensorflow - Redes Densas >
-file >>> `class_img.ipynb`
+file >>> `class_img.ipynb` <<<
 <br>
