@@ -12,3 +12,4 @@ file >>> `class_img.ipynb` <<<
 
 <br>`Comment this post! Thanks!`<br>
 
+<br>
