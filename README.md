@@ -12,5 +12,3 @@ file >>> `class_img.ipynb` <<<
 
 
 
-
-asd
