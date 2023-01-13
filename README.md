@@ -10,3 +10,4 @@ Ejemplo de resolucion de problemas lineales.
 ## Clasificación de imágenes con Python y Tensorflow - Redes Densas >
 file >>> `class_img.ipynb` <<<
 
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-f8a506?style=for-the-badge&logo=Tensorflow&logoColor=white&labelColor=101010)]()
