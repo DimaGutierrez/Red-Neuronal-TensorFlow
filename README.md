@@ -11,3 +11,10 @@ Ejemplo de resolucion de problemas lineales.
 file >>> `class_img.ipynb` <<<
 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-f8a506?style=for-the-badge&logo=Tensorflow&logoColor=white&labelColor=101010)]()
+
+## Portfolio:
+[![Wix](https://img.shields.io/badge/wix🔥🔥🔥-DIMA>>JOBBOX-FA7343?style=for-the-badge&logo=Wix&logoColor=white&labelColor=101010)](https://diegosurf.wixsite.com/diegorgutierrez)
+
+## Contacto:
+[![Email](https://img.shields.io/badge/diegorgutierrez@live.com.ar-email_personal-FA7343?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](mailto:diegorgutierrez@live.com.ar)
+</br>
