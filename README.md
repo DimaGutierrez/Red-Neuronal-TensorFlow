@@ -21,3 +21,4 @@ file >>> `class_img.ipynb` <<<
 [![Email](https://img.shields.io/badge/diegorgutierrez@live.com.ar-email_personal-FA7343?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](mailto:diegorgutierrez@live.com.ar)
 </br>
 
+dasd
