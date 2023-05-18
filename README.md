@@ -12,6 +12,6 @@ file >>> `class_img.ipynb` <<<
 
 <br></br>
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-f8a506?style=for-the-badge&logo=Tensorflow&logoColor=white&labelColor=101010)]()
-<br></br>
+<br> </br>
 
 
